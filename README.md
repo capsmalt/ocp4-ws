@@ -1,3 +1,7 @@
+# **こちらのリポジトリはCloseします。**
+
+# **今後は右記リポジトリをアップデート予定です。==> https://github.com/capsmalt/ocp4ws-basic**
+
 # タイムテーブル
 Red Hat OpenShift Container Platform 4 ワークショップ
 
